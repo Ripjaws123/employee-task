@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tasklist::-webkit-scrollbar {
+  display: none;
+}
+
+#message::-webkit-scrollbar {
+  display: none;
+}
+
+#tasks::-webkit-scrollbar {
+  display: none;
+}
